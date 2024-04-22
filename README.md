@@ -6,4 +6,5 @@ Our GitHub repository showcases an ecommerce sales analysis project conducted pr
 
 
 
-![ecommerce](https://github.com/Igruapawan/Ecommerce-sales-Analysis/assets/98211165/ab0759ed-4191-4efd-ae6e-79a336b7feca)
+
+![p1](https://github.com/Igruapawan/Ecommerce-sales-Analysis/assets/98211165/1f1baaf5-b445-4e57-909e-034d346f852a)
